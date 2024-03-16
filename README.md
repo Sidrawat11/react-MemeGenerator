@@ -14,7 +14,7 @@ This project is a web application that allows users to generate memes by combini
 ## Screenshot
 
 <div align="center">
-  <img src='/src/Images/mainApp.png' alt='Main APP' />
+  <img src='/src/Images/mainAPP.png' alt='Main APP' />
 </div>
 
 ## Installation
