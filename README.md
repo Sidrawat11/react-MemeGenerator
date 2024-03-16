@@ -41,6 +41,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This project utilizes the ImageFlip API for generating memes. You can find more information about the API [here](https://imageflip.com/).
 - This project was inspired by the popular meme generator websites.
 
-## Contact
-
-For any questions or inquiries, please contact the project maintainer at your-email@example.com.
