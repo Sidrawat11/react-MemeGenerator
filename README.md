@@ -6,10 +6,6 @@ This project is a web application that allows users to generate memes by combini
 
 - Select from a collection of popular meme images.
 - Add custom text captions to the selected image.
-- Customize the font, size, and color of the text captions.
-- Position and align the text captions on the image.
-- Preview the generated meme before saving or sharing.
-- Download the generated meme as an image file.
 
 ## Screenshot
 
